@@ -11,9 +11,12 @@ I Love to code! ❤️
 - 👯 I’m looking to collaborate on projects with open source code. I believe in knowledge sharing as a tool for human progress.
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Audry-prog)](https://github.com/Audry-prog)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/audry-%C3%A1valos-b902b533/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linda.audry@gmail.com)](mailto:linda.audry@gmail.com/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Audry-prog)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/audry-%C3%A1valos-b902b533/)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linda.audry@gmail.com)]
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:audryavalos@hotmail.com)]
+
+
 
 
 [Audry-prog's github stats](https://github-readme-stats.vercel.app/api?username=Audry-prog&show_icons=true&theme=black)
