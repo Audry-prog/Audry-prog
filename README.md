@@ -12,13 +12,13 @@ I Love to code! ❤️
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Audry-prog)](https://github.com/Audry-prog)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabicanedohttps://www.linkedin.com/in/audry-%C3%A1valos-b902b533/)](https://www.linkedin.com/in/audry-%C3%A1valos-b902b533/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/audry-%C3%A1valos-b902b533/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linda.audry@gmail.com)](mailto:linda.audry@gmail.com/)
 
 
-[Audry-prog's github stats](https://github-readme-stats.vercel.app/api?username=Audry-prog&show_icons=true&theme=white)
+[Audry-prog's github stats](https://github-readme-stats.vercel.app/api?username=Audry-prog&show_icons=true&theme=black)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audry-prog&theme=white)](https://github.com/Audry-prog/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audry-prog&theme=black)](https://github.com/Audry-prog/github-readme-stats)
 
 
 
