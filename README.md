@@ -15,11 +15,10 @@ I Love to code! ❤️
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabicanedohttps://www.linkedin.com/in/audry-%C3%A1valos-b902b533/)](https://www.linkedin.com/in/audry-%C3%A1valos-b902b533/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linda.audry@gmail.com)](mailto:linda.audry@gmail.com/)
 
-<div align="center"> 
-[Audry-prog's github stats](https://github-readme-stats.vercel.app/api?username=Audry-prog&show_icons=true&theme=greenlight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecastrosales&theme=greenlight)](https://github.com/Audry-prog/github-readme-stats)
-</div>
 
-<--
-**Audry-prog/Audry-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+[Audry-prog's github stats](https://github-readme-stats.vercel.app/api?username=Audry-prog&show_icons=true&theme=greenlight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audry-prog&theme=greenlight)](https://github.com/Audry-prog/github-readme-stats)
+
+
+
