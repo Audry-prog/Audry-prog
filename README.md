@@ -1,10 +1,8 @@
 <h1 align="center"> Hello Word! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<h4> My name is Audry Ávalos, a programming enthusiast web and mobile. I seek to improve my learning and learn new things, through new challenges.</h4>
-
-I Love to code! ❤️
-
-- 📚 I’m currently studying Back-End Development at {Reprograma} a project of MINAS Porto Digital, and studying Front-end at WoMakersCode.
+<h4> My name is Audry Ávalos, a programming enthusiast web and mobile. I seek to improve my learning and learn new things, through new challenges. Curreently I'm in the last semester of the Faculty of Information Management at UFPE, and I am tracing my ways to work with data analysis in the future. </h4>
+ 
+- 📚 I’m currently studying Back-End Development at {Reprograma} a project of MINAS Porto Digital.
 - 💻 I’m currently learning JavaScript, HTML5, CSS3, NodeJS and Python.
 - ❤️ I love programming and learn about the world of data. My dream is to be a Data Scientist in the future.
 - 🌍 Languages: English, Spanish and Portguese.
