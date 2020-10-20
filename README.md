@@ -19,7 +19,7 @@ I Love to code! ❤️
 
 
 
-[Audry-prog's github stats](https://github-readme-stats.vercel.app/api?username=Audry-prog&show_icons=true&theme=dark)
+[![Audry-prog's github stats](https://github-readme-stats.vercel.app/api?username=Audry-prog&show_icons=true&theme=dark)](https://github.com/Audry-prog/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audry-prog&theme=dark)](https://github.com/Audry-prog/github-readme-stats)
 
