@@ -4,7 +4,7 @@
  
 - 📚 I’m currently studying Back-End Development at {Reprograma} a project of M.I.N.A.S - Porto Digital.
 - 💻 I’m currently learning JavaScript, HTML5, CSS3, Node.JS, MongoDB and Python.
-- ❤️ I love programming and learn about the world of data. My dream is to be a Data Scientist in the future.
+- ❤️ I love programming and learn about the world of data. My dream is to be a Data Scientist in the future, but as skills acquired as a back-end developer allow me to see the business as a whole.
 - 🌍 Languages: English, Spanish and Portguese.
 - ⚡ Some Curiosities about me: I am passionate about animals (I have 3 cats and 1 dog), foods and travel. I lived 7 years in Spain and would return to live outside Brazil if I had the opportunity.
 - 👯 I’m looking to collaborate on projects with open source code. I believe in knowledge sharing as a tool for human progress. And if you want to use any of my projects or encourage me to continue studying, just mention my authorship or starring and sharing my projects.
